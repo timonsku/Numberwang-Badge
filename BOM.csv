@@ -1,0 +1,27 @@
+Qty;Value;Device;Package;Parts;Description;Order Link;DESCRIPTION;MANUFACTURER_NAME;MANUFACTURER_PART_NUMBER;MF;MOUSER_PART_NUMBER;MOUSER_PRICE-STOCK;MP;PACKAGE;PRICE;PROD_ID;RS_PART_NUMBER;RS_PRICE-STOCK
+1;;USB_MICRO-B_FEMALE-SMT;USB-B-MICRO-SMD;J1;USB Type Micro-B Connector;https://lcsc.com/product-detail/Micro-USB-Connectors_Korean-Hroparts-Elec-U-F-M5SW-Y-3_C106820.html;This part on mouser should work just as fine https://www.mouser.de/ProductDetail/Hirose-Connector/ZX62-B-5PA33?qs=%2Fha2pyFaduhiSQl2TrshNN4h5tYLcCq4%252B%2FDj%2FzhIV4TUsZmrT6v6qg%3D%3D;;;;;;;;;CONN-11752;;
+1;0.1uF;CAP_CERAMIC_0805MP;_0805MP;C8;Ceramic Capacitors;Generic;;Generic;;;;;;;;;;
+2;100k;RESISTOR_0603MP;_0603MP;R5, R7;Resistors;Generic;;Generic;;;;;;;;;;
+1;10K;RESISTOR_0805MP;_0805MP;R1;Resistors;Generic;;Generic;;;;;;;;;;
+1;10K;RESISTOR_0603MP;_0603MP;R6;Resistors;Generic;;Generic;;;;;;;;;;
+2;10uF;CAP_CERAMIC_0805MP;_0805MP;C12, C13;Ceramic Capacitors;Generic;;Generic;;;;;;;;;;
+3;10µF;CAP_CERAMIC_0805MP;_0805MP;C1, C4, C11;Ceramic Capacitors;Generic;;Generic;;;;;;;;;;
+1;1K;RESISTOR_0603MP;_0603MP;R4;Resistors;Generic;;Generic;;;;;;;;;;
+1;1M;RESISTOR_0805MP;_0805MP;R2;Resistors;Generic;;Generic;;;;;;;;;;
+3;1uF;CAP_CERAMIC_0603MP;_0603MP;C2, C9, C10;Ceramic Capacitors;Generic;;Generic;;;;;;;;;;
+1;2.2K;RESISTOR_0603MP;_0603MP;R3;Resistors;Generic;;Generic;;;;;;;;;;
+2;220pF;CAP_CERAMIC_0805MP;_0805MP;C14, C15;Ceramic Capacitors;Generic;;Generic;;;;;;;;;;
+1;AP2112-3.3;VREG_SOT23-5;SOT23-5;U1;SOT23-5 Fixed Voltage Regulators;https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_DIODES_AP2112K-3-3TRG1_AP2112K-3-3TRG1_C51118.html;;;AP2112K-3-3;;;;;;;;;
+1;ATSAMD21G18;ATSAMD21G_QFN;TQFN48_7MM;U$13;;https://www.mouser.de/ProductDetail/Microchip-Technology-Atmel/ATSAMD21G18A-MUT?qs=%2Fha2pyFadugBn%2Fe%252Bemax1S1gJ11%2F2%2FCMvHb63eua5Dr%252Br%2FV8QMNCGQ%3D%3D;;Microchip;ATSAMD21G18A-MUT;;;;;;;;;
+1;CMS-151135-078SP;CMS-151135-078SP;CMS151135078SP;LS1;Speakers & Transducers 0.7W 8ohm 550Hz 15x11mm Solder Pads;https://www.mouser.com/Search/Refine.aspx?Keyword=490-CMS-151135-078SP;Speakers & Transducers 0.7W 8ohm 550Hz 15x11mm Solder Pads;CUI;CMS-151135-078L100;;490-CMS-151135-078L100;https://www.mouser.com/Search/Refine.aspx?Keyword=490-CMS-151135-078SP;;;;;;
+2;Ferrite;FERRITE;603;FB3, FB4;Ferrite Bead;https://www.mouser.de/ProductDetail/CUI/CMS-151135-078L100?qs=sGAEpiMZZMuTkJYgZlQcSSXjUNenqzceQBroy8g6Qg729a%252BbHUDZ1A%3D%3D;;;MAF1608GAD471CT000;;;;;;;;;
+2;JSTPH;CON_JST_PH_2PIN;JSTPH2;X1, X2;JST 2-Pin Right-Angle Connector;https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_Shenzhen-Cankemeng-2001series-socket-1-2P-2mm_C132500.html;;;;;;;;;;;;
+1;MAX98357A;AUDIOAMP_MAX98357;QFN16_3MM;U5;MAX98357 - 3.2W I2S Mono Audio Amp;https://www.mouser.de/ProductDetail/Maxim-Integrated/MAX98357AETE%2bT?qs=%2Fha2pyFadugQJNAUF8uE3r9zLnmoEANirlA0xRnyR4JyUQWHxJSG8Yiz7QIaexWs;;;;;;;;;;;;
+1;MBR120;DIODE-SCHOTTKYSOD-123;SOD-123;D2;2A rating or better, SOD-214 package also works (I used that because I still had it) f.e. B230A;https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shandong-Jingdao-Microelectronics-DS24W_C108810.html;;;;;;;;;;;;
+1;MCP73831T;MCP73831/2;SOT23-5@1;U4;MCP73831/2 LIPO Charger SOT23-5;https://www.mouser.de/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=sGAEpiMZZMtLck3p7ZBovc%252BIEf4wKPGR;;;;;;;;;;;;
+1;ORANGE;LED0805_NOOUTLINE;CHIPLED_0805_NOOUTLINE;CHG1;LED;Generic;;;;;;;;;;;;
+1;RED;LED0805_NOOUTLINE;CHIPLED_0805_NOOUTLINE;L1;LED;Generic;;;;;;;;;;;;
+1;SI2308CDS-T1-GE3;MOSFET-NWIDE;SOT23-WIDE;Q1;N-Channel Mosfet;https://www.mouser.de/ProductDetail/78-SI2308CDS-T1-GE3;;;SI2308CDS-T1-GE3;;;;;;;;;
+1;SPST_TACT-KMR2;SPST_TACT-KMR2;KMR2;SW2;SMT 6mm switch, EVQQ2 series;https://lcsc.com/product-detail/Tactile-Switches_C-K_KMR221GLFS_C-K-KMR221GLFS_C72443.html;;;;;;;;;;;;
+1;SSSS811101;SSSS811101;SSSS811101;S1;Slide Switches SPDT HORZ GRND 1.5mm;https://lcsc.com/product-detail/Toggle-Switches_ALPS_SSSS811101_SSSS811101_C109335.html;Slide Switches SPDT HORZ GRND 1.5mm;ALPS;SSSS811101;;688-SSSS811101;https://www.mouser.com/Search/Refine.aspx?Keyword=688-SSSS811101;;;;;1238939;http://uk.rs-online.com/web/p/products/1238939
+1;W25Q16JVSSIQ;W25Q16JVSSIQ;SOIC127P790X216-8N;U2;3v 16m-Bit Serial Flash Memory With Dual;https://lcsc.com/product-detail/FLASH_Winbond-Elec-W25Q16JVSSIQTR_C131025.html; 3v 16m-Bit Serial Flash Memory With Dual ;;;Winbond Electronics;;;W25Q16JVSSIQ;SOIC-8 Winbond;None;;;
