@@ -5,7 +5,7 @@ This is a stupid last minute project that came into existence for CCCamp19. If y
 
 I did not expect that so many people got interested in it, so the documentation might be a little lacking. If you actually solder the badge and have any issue just create a Github issue here so others can profit from the discussion too.
 
-THERE IS ONE BUG IN THE CIRCUIT. Please see the audio bodge fix png, in the hurry I misnamed a signal and it was NC when it was supposed to connect to the I2S amp. Use this to get 
+THERE IS ONE BUG IN THE CIRCUIT. Please see the audio bodge fix png, in the hurry I misnamed a signal and it was NC when it was supposed to connect to the I2S amp. You need to solder one bodge wire, other than that all works fine.
 
 The MCU on the board is the ATSAMD21G18, the pinout used is the same from the Adafruit Itsy Bitsy. I tried to stay as close to the Itsy Bitsy as possible so you can just refer to their documentation if you got any questions regarding pinout: https://learn.adafruit.com/introducing-itsy-bitsy-m0
 
